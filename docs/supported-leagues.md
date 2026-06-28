@@ -34,6 +34,7 @@ nav_order: 4
 | Korean Baseball Organization | `kbo` | MLBStats | |
 | UK Elite Ice Hockey League | `eihl` | TheSportsDB | |
 | Canadian Football League | `cfl` | TheSportsDB | |
+| Australian Football League | `afl` | ESPN | |
 | English Premier League | `epl` | TheSportsDB / ESPN | Championship, League One, League Two, National League, National League South, National League North |
 | English FA Cup | `engfa` | ESPN | EPL, Championship, League One, League Two |
 | EFL Championship | `championship` | ESPN | |

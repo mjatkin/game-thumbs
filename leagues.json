@@ -247,6 +247,22 @@
       }
     ]
   },
+  "afl": {
+    "name": "Australian Football League",
+    "aliases": [
+      "australian football league",
+      "aussie rules",
+      "australian rules football"
+    ],
+    "providers": [
+      {
+        "espn": {
+          "espnSport": "australian-football",
+          "espnSlug": "afl"
+        }
+      }
+    ]
+  },
   "__SOCCER_LEAGUES__": "===========================================",
   "uefa": {
     "name": "UEFA Champions League",

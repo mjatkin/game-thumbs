@@ -97,6 +97,98 @@
       ]
     }
   },
+  "afl": {
+    "adelaide-crows": {
+      "aliases": [
+        "ADE"
+      ]
+    },
+    "brisbane-lions": {
+      "aliases": [
+        "BRI"
+      ]
+    },
+    "carlton": {
+      "aliases": [
+        "CAR"
+      ]
+    },
+    "collingwood": {
+      "aliases": [
+        "COL"
+      ]
+    },
+    "essendon": {
+      "aliases": [
+        "ESS"
+      ]
+    },
+    "fremantle": {
+      "aliases": [
+        "FRE"
+      ]
+    },
+    "geelong-cats": {
+      "aliases": [
+        "GEE"
+      ]
+    },
+    "gold-coast-suns": {
+      "aliases": [
+        "GCS"
+      ]
+    },
+    "gws-giants": {
+      "aliases": [
+        "GWS"
+      ]
+    },
+    "hawthorn": {
+      "aliases": [
+        "HAW"
+      ]
+    },
+    "melbourne": {
+      "aliases": [
+        "MEL"
+      ]
+    },
+    "north-melbourne": {
+      "aliases": [
+        "NOR"
+      ]
+    },
+    "port-adelaide": {
+      "aliases": [
+        "POR"
+      ]
+    },
+    "richmond": {
+      "aliases": [
+        "RIC"
+      ]
+    },
+    "st-kilda": {
+      "aliases": [
+        "STK"
+      ]
+    },
+    "sydney-swans": {
+      "aliases": [
+        "SYD"
+      ]
+    },
+    "west-coast-eagles": {
+      "aliases": [
+        "WCE"
+      ]
+    },
+    "western-bulldogs": {
+      "aliases": [
+        "WBD"
+      ]
+    }
+  },
   "olympics": {
     "gb": {
       "aliases": [
